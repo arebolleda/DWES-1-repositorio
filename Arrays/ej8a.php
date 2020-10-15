@@ -5,7 +5,7 @@
 	<h4>Lucas Fadavi Solanilla</h4> 
 <?php
 	
-	
+	/*ALFONSO:<<<< Uso correcto funciones arrays */
 	$alumnosBBDD = array ("Nostromo"=>7, "Buenafuente"=>4, "Batman"=>10,"Terminator"=>9,"Amadeus"=>5);
 
 	
