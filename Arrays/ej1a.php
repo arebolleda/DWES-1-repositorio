@@ -6,6 +6,10 @@
 <h4>Lucas Fadavi Solanilla</h4>   	
 <?php
 
+/*ALFONSO:<<<< Muy bien resuelto ...
+No es necesario inicializar variables, pero para ervitar resultados inesperados es buena práctica
+
+*/
 $arrayI = array();
 $nImp=0;
 $incre=0;
