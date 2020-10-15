@@ -12,7 +12,9 @@
 
 	 echo "<strong>Longitud del array asociativo:</strong> ".$numdatos."<br>";
  
+/*ALFONSO:<<<< OK uso foreach
 
+*/
  	foreach($alumnos as $alumno => $edad) {
 	    echo "Alumno: ".$alumno." Edad: ".$edad;
 	    echo "<br>";
@@ -34,7 +36,9 @@
 	b. Sitúa el puntero en la segunda posición del array y muestra su valor
 	c. Avanza una posición y muestra el valor
 	d. Coloca el puntero en la última posición y muestra el valor */
+/*ALFONSO:<<<< OK uso función asort
 
+*/
 	asort($alumnos);
 
 	echo "<strong>Array Ordenado:</strong> <br>";
