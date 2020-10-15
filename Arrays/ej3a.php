@@ -5,7 +5,7 @@
 <BODY>
 <h4>Lucas Fadavi Solanilla</h4>   	
 <?php
-
+/*ALFONSO:<<<< Muy bien resuelto ...*/
 $arrayBin = array();
 $arrayOct = array();
 
