@@ -5,7 +5,9 @@
 	<h4>Lucas Fadavi Solanilla</h4> 
 <?php
 
+/*ALFONSO:<<<< Muy bien resuelto, buen uso funciones de arrays
 
+*/
 	echo "<strong> Array sin invertir:</strong><br>";
 
 	$asig1=array("Bases Datos","Entornos Desarrollo","Programación");
