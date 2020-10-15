@@ -6,7 +6,8 @@
 <?php
 
 	echo "Apartado A: <br>";
-
+	/*ALFONSO:<<<< Muy bien resuelto Apartado A ...*/
+	/*ALFONSO:<<<< No es necesario definir 3 veces $asig1, $asig2, $asig3 */
 	
 	$asig1=array("Bases Datos","Entornos Desarrollo","Programación");
 	$asig2=array("Sistemas Informáticos","FOL","Mecanizado");
@@ -28,6 +29,7 @@
 
 	echo "<br>";
 	echo "<br> Apartado B: <br>";
+	/*ALFONSO:<<<< Muy bien resuelto Apartado B...*/
 
 	$asig1=array("Bases Datos","Entornos Desarrollo","Programación");
 	$asig2=array("Sistemas Informáticos","FOL","Mecanizado");
@@ -48,7 +50,7 @@
 	$asig1=array("Bases Datos","Entornos Desarrollo","Programación");
 	$asig2=array("Sistemas Informáticos","FOL","Mecanizado");
 	$asig3=array("Desarrollo Web ES","Desarrollo Web EC","Despliegue","Desarrollo Interfaces","Inglés.");
-
+/*ALFONSO:<<<< Muy bien resuelto apartado C*/
 	$asigtotal=$asig1;
 
 		foreach ($asig2 as $asig2s) {
